@@ -1,0 +1,2 @@
+enemyturret = 0 0 30 60
+playerturret = 31 0 61 60

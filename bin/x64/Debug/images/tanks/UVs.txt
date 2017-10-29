@@ -1,0 +1,15 @@
+playerturret 	UV - 0,61,30,121    Dimensions - 30,60
+playerbase      UV - 93,0,155,52    Dimensions - 62,52
+playerbase1     UV - 93,52,155,106  Dimensions - 62,52
+playerbase2     UV - 93,106,155,158 Dimensions - 62,52
+
+enemyturret		UV - 0,0,30,61 		Dimensions - 30,60
+enemybase		UV - 30,0,93,52 	Dimensions - 62,52
+enemybase1   		UV - 30,52,93,106   	Dimensions - 62,52
+enemybase2		UV - 30,106,93,158  	Dimensions - 62,52
+
+133 16,17
+368
+312
+253
+370

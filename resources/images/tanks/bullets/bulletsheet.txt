@@ -1,0 +1,8 @@
+Basic Bullet0 = 0 10 5 19
+Basic Bullet1 = 7 10 12 19
+Basic Bullet2 = 14 10 19 19
+Basic Bullet3 = 21 10 26 19
+Basic Bullet4 = 0 0 5 9
+Basic Bullet5 = 7 0 12 9
+Basic Bullet6 = 14 0 19 9
+Basic Bullet7 = 21 0 26 9

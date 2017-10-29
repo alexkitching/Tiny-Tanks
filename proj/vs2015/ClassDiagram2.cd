@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tank" Collapsed="true">
+    <Position X="1.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUQBQEARII1xQAAAQCAACERAEBCoACBCWlAAgAEiAI=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Tank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankBullet" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAQAAAAAAABAAACAAAAABAQAAAAAAAAgAAEAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\TankBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicBullet" Collapsed="true">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAIAAAAAAIAAAAABAgAAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\TankBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankTurret" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAQAABQAAAAAAAARAAQAAAAAAAgCAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\TankTurret.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimationController" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAACYAAAAAAEAAAAAKAAAAAgAwAAAAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\AnimationController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameController" Collapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAABAATBAIABAAAAgEAAAYBAAIAAAAAAAQAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\GameController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelController" Collapsed="true">
+    <Position X="16.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAkAQBQCIACqAYAACAIKAAAAAQiAICCBAAIICgCAAAU=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\LevelController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node" Collapsed="true">
+    <Position X="7.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QIAAQAAAAAAAEAAAAAIAACAAAAIAAAAgQEKAAAEAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sprite" Collapsed="true">
+    <Position X="7.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAACAAQmAQAIABEAAAIgQLAQBAFkEQAQAAJpgIAII=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAkgAABgiYQQAAAIAACCABhIASAAAEAAAAIAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powerup::Powerup" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABQAIAAAAAAAAQAAAAAABAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Powerups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powerup::Life" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAgABAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Powerups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powerup::Ammo" Collapsed="true">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Powerups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powerup::Homing" Collapsed="true">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAgAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Powerups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Powerup::Mystery" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAAAAAgQAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Powerups.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacle::Pencil" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAQggAAAAAAAAAADAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Obstacles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Obstacle::Eraser" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAQAIAAAAAAAACABAAAAAAAAAAoAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Obstacles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Explosion" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAAAwAAAAQAAAAACAAAEAABAIAAAAAAAAgAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomingBullet" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAACAAAAQAAAAAAAAAACAAAIAAAAABEgAAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\TankBullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIController" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAQAAAAAAAQACCIAAAAAAAAAAgAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\UIController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpawnController" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AqIgCAgAAAAAAAAEAAIIMgAEACCAAAAAAQAAAgAAAII=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\SpawnController.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="GameState" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\GameStates.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="State" Collapsed="true">
+    <Position X="16.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\TankStates.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameObjectType" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAEAAAAAQAAACAAAAAAAAABAAAAAAAAEGAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\GameObjectTypes.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameStates" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIAAAAAAAAAAAAgACBIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\OneDrive - University of Gloucestershire\CT4019 - Programming and Mathematics for Games\Assignment 2\Tiny Tanks\include\GameStates.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,4 @@
+enemybase = 0 0 62 52
+enemybase1 = 63 0 62 52
+playerbase = 0 53 62 52
+playerbase1 = 63 53 62 52
