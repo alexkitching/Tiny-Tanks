@@ -6,10 +6,10 @@
  
  This is my second assignment after the Asteroids Recreation.
  
- We were tasked with recreating TinyTanks similar to the Flash or Wii Game.
- We were required to Create a Math Library containing Vector and Matrix Classes which were utilised in the development of the Game.
+ I was tasked with recreating TinyTanks similar to the Flash or Wii Game.
+ Also I was required to create a Math Library containing Vector and Matrix Classes which were utilised in the development of the Game.
  
- **Features:** <br>
+ **Features:** <br/>
  2 Player Local Gameplay <br/>
  Tank Combat <br/>
  Collision Detection <br/>
