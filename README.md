@@ -14,6 +14,7 @@
  Tank Combat <br/>
  Collision Detection <br/>
  Powerups (Ammo, Homing Missile, Lives, Random) <br/>
+ Animated Sprites <br/>
  Basic Splash Menu <br/>
  
  **Skills Demonstrated:** <br/>
